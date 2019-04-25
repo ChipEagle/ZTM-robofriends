@@ -1,2 +1,7 @@
-# ZTM-robofriends
-Section 19, Lecture 205 5:45 TypeError: __WEBPACK_IMPORTED_MODULE_0_react___default.a.createContext is not a function
+# robofriends
+Tutorial for udemy course - React
+To run the project:
+
+1. Clone this repo
+2. Run `npm install`
+3. Run `npm start`
