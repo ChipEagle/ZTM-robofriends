@@ -10,12 +10,9 @@ import 'tachyons';
 
 const store = createStore(searchRobots)
 
-// Error: Error_Question_Section_19_Lecture_205.txt
 ReactDOM.render(
                 <Provider store = { store }>
                   <App />
                 </Provider>, document.getElementById('root'));
-
-// ReactDOM.render(<App store = { store } />, document.getElementById('root'));
 
 registerServiceWorker();
